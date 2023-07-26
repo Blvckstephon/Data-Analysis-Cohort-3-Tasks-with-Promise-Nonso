@@ -11,15 +11,22 @@ Job type (Part-time, Freelance, Contract)
 
 # ACTIVITY:
 
-In worksheet 1, I showed employees who are ‘Freelancers’ and highlight the ones whose salaries are above $10000
+In worksheet 1, I showed employees who are ‘Freelancers’ and highlight the ones whose salaries are above $10000, 
 In worksheet 2, I splitted the employees’ full names into first name and last name. Check for duplicates and highlight if any (do not delete)
-In worksheet 3, highlight employees whose names begin with the letter ‘E’ (in yellow). Format the Salary column such that the highest SALARY has a green background and the lowest SALARY has a red background.
+In worksheet 3, highlight employees whose names begin with the letter ‘E’ (in yellow). Formatted the Salary column such that the highest SALARY has a green background and the lowest SALARY has a red background.
 
 # SKILLS DEMOSTRATED: 
 
-_ Use of Sort and Filter 
-_ Use of Conditional Formating 
-_ Use of Text-Column 
+- Use of Sort and Filter 
+- Use of Conditional Formating
+- Use of Text-Column
+
+# CONCLUSION 
+
+The task was really insightful and opened my knowledge to every possible things excel could do. I'm looking forward to know more about microsoft excel and data analysis at large. 
+
+
+
 
 
 
