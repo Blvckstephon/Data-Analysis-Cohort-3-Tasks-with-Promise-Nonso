@@ -25,6 +25,9 @@ In worksheet 3, highlight employees whose names begin with the letter ‘E’ (i
 # DATA PROCESSING: 
 The attached screenshot (Raw Data Task 1) is my personnally constructed raw data of employees identity numbers, Fullnames,Salary, and Job type.
 
+<img width="1440" alt="image" src="https://github.com/Blvckstephon/Data-Analysis-Cohort-3-Tasks-with-Promise-Nonso/assets/106796709/186f4cc0-c3fc-41b4-a27c-a0aa6eb716ec">
+
+
 
 # CONCLUSION 
 
