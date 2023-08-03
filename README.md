@@ -33,6 +33,11 @@ On worksheet 1, in order for me to process only the employees with salaries abov
 
 On worksheet 2, I used the Text-to-Column function to split the fullnames of the employees, into firstnames and lastnames on separate columns. This was done by highlighting the Fullname column then I clicked on the 'text-to-column', selected 'delimeted' then 'space' and highlight the required columns for the new names then click finish. This simply popped-up two new columns with their firstnames and lastnames as seen in 'worksheet 2' below. Thereafter I used the conditional formatting function to find duplicate names on the Firstname and LastName Column which was highlighted in red.
 
+<img width="1440" alt="worksheet 2 task 1" src="https://github.com/Blvckstephon/Data-Analysis-Cohort-3-Tasks-with-Promise-Nonso/assets/106796709/48123dfd-8a22-41ca-9c02-672bdf9f9654">
+
+On Worksheet 3, 
+To determine the employee's with the highest and lowest salary, I highlighted the salary column then selected the conditional formatting function to determine the 'Top 1 Value' by highlighting the cell background and the value with dark green colour, also applied the 'Bottom 1 value' to the salary column by highlighting the cell background and the value with dark red colour. I also used the filter function to select and highlight employee names that begins with 'E' then I filled the background colour with yellow.
+
 
 
 
