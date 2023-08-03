@@ -29,6 +29,9 @@ The attached screenshot (Raw Data Task 1) is my personnally constructed raw data
 
 On workshet 1, in order for me to process only the employees with salaries above $10,000,I applied the Filter funtion on all the data headings, then selected the salary column by left-clicking and selecting greater than 10,000, this revealed only employees with salaries above $10,000, thereafter I applied the same filter funtion to the 'Job Type' column selecting only freelancers. This automatically provided the dataset for just freelancers who earned aboved $10,000 with their different identification numbers.
 
+<img width="1440" alt="worksheet 1 task 1" src="https://github.com/Blvckstephon/Data-Analysis-Cohort-3-Tasks-with-Promise-Nonso/assets/106796709/dd07dbc8-4beb-433d-8f49-39ba5b525e51">
+
+
 
 
 # CONCLUSION 
