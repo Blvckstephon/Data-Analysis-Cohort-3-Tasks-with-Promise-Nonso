@@ -17,9 +17,14 @@ In worksheet 3, highlight employees whose names begin with the letter ‘E’ (i
 
 # SKILLS DEMOSTRATED: 
 
+- Data processing 
 - Use of Sort and Filter 
 - Use of Conditional Formating
 - Use of Text-Column
+
+# DATA PROCESSING: 
+The attached screenshot (Raw Data Task 1) is my personnally constructed raw data of employees identity numbers, Fullnames,Salary, and Job type.
+
 
 # CONCLUSION 
 
