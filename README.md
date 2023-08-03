@@ -23,9 +23,11 @@ In worksheet 3, highlight employees whose names begin with the letter ‘E’ (i
 - Use of Text-Column
 
 # DATA PROCESSING: 
-The attached screenshot (Raw Data Task 1) is my personnally constructed raw data of employees identity numbers, Fullnames,Salary, and Job type.
+The attached screenshot (Raw Data Task 1) is my personnally constructed raw data of employees identity numbers, Full Names,Salary, and Job type.
 
 <img width="1440" alt="image" src="https://github.com/Blvckstephon/Data-Analysis-Cohort-3-Tasks-with-Promise-Nonso/assets/106796709/186f4cc0-c3fc-41b4-a27c-a0aa6eb716ec">
+
+On workshet 1, in order for me to process only the employees with salaries above $10,000,I applied the Filter funtion on all the data headings, then selected the salary column by left-clicking and selecting greater than 10,000, this revealed only employees with salaries above $10,000, thereafter I applied the same filter funtion to the 'Job Type' column selecting only freelancers. This automatically provided the dataset for just freelancers who earned aboved $10,000 with their different identification numbers.
 
 
 
