@@ -38,6 +38,8 @@ On worksheet 2, I used the Text-to-Column function to split the fullnames of the
 On Worksheet 3, 
 To determine the employee's with the highest and lowest salary, I highlighted the salary column then selected the conditional formatting function to determine the 'Top 1 Value' by highlighting the cell background and the value with dark green colour, also applied the 'Bottom 1 value' to the salary column by highlighting the cell background and the value with dark red colour. I also used the filter function to select and highlight employee names that begins with 'E' then I filled the background colour with yellow.
 
+<img width="1440" alt="worksheet 3,task1" src="https://github.com/Blvckstephon/Data-Analysis-Cohort-3-Tasks-with-Promise-Nonso/assets/106796709/7abb27be-7a5a-499e-9a74-a65654ecdcd9">
+
 
 
 
